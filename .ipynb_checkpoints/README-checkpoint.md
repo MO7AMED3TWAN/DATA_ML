@@ -1,7 +1,5 @@
 <h1>DATA</h1>
 <h2>Scikit Learn Data</h2>
-<p>Bullet lists nested within numbered list:</p>
-
 <ol>
   <li>Ready_Data<ul>
       <li>IRIS DATA</li>
