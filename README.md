@@ -1,7 +1,7 @@
 <h1>DATA</h1>
 <h2>Scikit Learn Data</h2>
 
-<ol>
+<ol type="I">
   <li>Ready_Data<ul>
       <li>IRIS DATA</li>
       <li>DIGITS DATA</li>
